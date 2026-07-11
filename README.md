@@ -133,8 +133,8 @@ Become a skilled AI Engineer capable of building intelligent, scalable, and impa
 
 # 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* GitHub: https://github.com/JUST11206
+* LinkedIn: https://www.linkedin.com/in/saif-malik-657518375/
 * Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
