@@ -88,7 +88,7 @@ Become a skilled AI Engineer capable of building intelligent, scalable, and impa
 * 📱 Responsive Design
 * ☁️ Cloud Database (TiDB)
 
-🌐 **Live Demo:** https://studyhub-veaf.onrender.com
+🌐 **Live Demo:** https://studyhub-4dxp.onrender.com
 
 ---
 
