@@ -1,144 +1,86 @@
-# 👋 Hi, I'm Saif Malik
+# 👋 Hey, I'm Saif Malik
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&width=500&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Building+Projects+%26+Learning" alt="Typing SVG" />
+</div>
+
+---
+
+## 🎓 About Me
+
+**2nd Year B.Tech CSE (AI & ML)** | Passionate about building intelligent solutions
+
+- 🚀 Learning AI, ML, and Full-Stack Development
+- 💻 Proficient in Python & C++
+- 🎯 Focus on DSA and problem-solving
+- 🔨 Building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![TiDB](https://img.shields.io/badge/TiDB-0066CC?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTUwIDAgQzc3LjYxIDAgMTAwIDIyLjM5IDEwMCA1MCBDMTAwIDc3LjYxIDc3LjYxIDEwMCA1MCAxMDAgQzIyLjM5IDEwMCAwIDc3LjYxIDAgNTAgQzAgMjIuMzkgMjIuMzkgMCA1MCAwIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+---
+
+## 📁 Featured Projects
+
+### 📚 **StudyHub**
+Collaborative learning platform for students  
+*Flask • Python • TiDB Cloud • HTML • CSS*  
+✨ User Auth • Notes & PDFs • Video Lectures • Search System  
+🔗 [Live Demo](https://studyhub-4dxp.onrender.com) | [GitHub](https://github.com/JUST11206)
+
+### 🍗 **Malik Chicken Corner**
+Modern restaurant website  
+*Flask • Python • HTML • CSS*  
+✨ Responsive Design • Menu Management • Contact Form  
+🔗 [Live Demo](https://malikchickencorner.onrender.com)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JUST11206&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUST11206&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+- 🤖 Machine Learning & AI
+- 📊 Data Structures & Algorithms
+- 🔄 Advanced C++ Concepts
+- 🌐 Web Development
+
+---
+
+## 📞 Let's Connect
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JUST11206)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-malik-657518375/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Full-Stack+Python+Developer;Learning+C%2B%2B+%26+DSA;Building+Real-World+Projects;Always+Learning+🚀" />
+  <sub>🚀 Keep Building • Keep Learning • Every Project Makes You Better</sub>
 </p>
-
----
-
-## 🚀 About Me
-
-🎓 **CSE (AI & ML) Student**
-
-💡 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and solving real-world problems through technology.
-
-🌱 **Currently Learning**
-
-* C++
-* Data Structures & Algorithms
-* Machine Learning
-* Git & GitHub
-
-🎯 **Career Goal**
-
-Become a skilled AI Engineer capable of building intelligent, scalable, and impactful software.
-
----
-
-# 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=php" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-</p>
-
----
-
-# ⚙️ Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://skillicons.dev/icons?i=numpy" />
-</p>
-
----
-
-# 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-* **TiDB Cloud**
-
----
-
-# 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=cmake" />
-<img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-* Render
-* TiDB Cloud
-
----
-
-# 🚀 Featured Projects
-
-## 📚 StudyHub
-
-**Tech Stack:** Flask • TiDB Cloud • HTML • CSS • Python
-
-### Features
-
-* 🔐 User Authentication
-* 📄 Notes & PDF Library
-* 🎥 Video Lectures
-* 🔍 Search System
-* 📱 Responsive Design
-* ☁️ Cloud Database (TiDB)
-
-🌐 **Live Demo:** https://studyhub-4dxp.onrender.com
-
----
-
-##  Malik Chicken Corner
-
-**Tech Stack:** Flask • HTML • CSS • Python
-
-### Features
-
-* 🍽️ Modern Restaurant Website
-* 📱 Responsive UI
-* 📋 Food Menu
-* 📞 Contact Section
-
-🌐 **Live Demo:** https://malikchickencorner.onrender.com
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎯 Currently Working On
-
-* 🚀 C++ Development
-* 📚 Data Structures & Algorithms
-* 🤖 Machine Learning
-* 🧠 AI Projects
-* 🌍 Open Source Contributions
-
----
-
-# 📫 Connect With Me
-
-* GitHub: https://github.com/JUST11206
-* LinkedIn: https://www.linkedin.com/in/saif-malik-657518375/
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-# 💡 Quote
-
-> **"Keep Building. Keep Learning. Every Project Makes You Better Than Yesterday."**
