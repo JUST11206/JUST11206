@@ -45,24 +45,6 @@ Modern restaurant website
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JUST11206&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUST11206&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🎯 Currently Learning
-
-- 🤖 Machine Learning & AI
-- 📊 Data Structures & Algorithms
-- 🔄 Advanced C++ Concepts
-- 🌐 Web Development
-
----
-
 ## 📞 Let's Connect
 
 <div align="center">
@@ -71,12 +53,6 @@ Modern restaurant website
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-malik-657518375/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikshoaib7983@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
