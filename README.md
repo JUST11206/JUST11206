@@ -19,7 +19,7 @@
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![TiDB](https://img.shields.io/badge/TiDB-0066CC?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTUwIDAgQzc3LjYxIDAgMTAwIDIyLjM5IDEwMCA1MCBDMTAwIDc3LjYxIDc3LjYxIDEwMCA1MCAxMDAgQzIyLjM5IDEwMCAwIDc3LjYxIDAgNTAgQzAgMjIuMzkgMjIuMzkgMCA1MCAwIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white) |
